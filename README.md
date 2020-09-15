@@ -1,7 +1,6 @@
-# Anupriya-Portfolio
-<h2>VIEW MY WEB BASED PORTFOLIO:</h2>
-<a href='https://anupriya1729.github.io/Anupriya-s-Resume/'>Link</a>
-
+<h2>VIEW MY WEB BASED PORTFOLIO:
+<a href='https://anupriya1729.github.io/Anupriya-Portfolio/'>Link</a>
+</h2>
 <pre>
 This is a Web based resume. Made by using HTML, CSS, Java Script.
 I made it to understand how Github Pages work.
